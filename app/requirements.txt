@@ -1,0 +1,9 @@
+crewai[anthropic]>=1.0
+crewai-tools>=1.14
+tavily-python>=0.5
+fastapi>=0.115
+uvicorn[standard]>=0.32
+psycopg[binary]>=3.2
+langfuse>=3.0
+pydantic>=2.9
+openlit==1.35.0
